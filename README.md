@@ -43,8 +43,11 @@ Recent Result:
 
 ### 📫 Connect With Me
 
-*   🌐 **Portfolio:** [waqasdb.com](https://waqasdb.com)
-*   💼 **Hire Me:** [Upwork Profile](https://www.upwork.com/freelancers/~013273d290579a26c7)
-*   🔗 **LinkedIn:** [linkedin.com/in/waqas-ahmad](https://www.linkedin.com/in/waqas-ahmad-2110aa15b/)
+| | |
+|---|---|
+| 🌐 Website | [waqasdb.com](https://waqasdb.com) |
+| 💼 Upwork | [Hire Me](https://www.upwork.com/freelancers/~013273d290579a26c7) |
+| 🔗 LinkedIn | [Connect](https://www.linkedin.com/in/waqas-ahmad-2110aa15b/) |
+| 📧 Email | [consulting@waqasdb.com](mailto:consulting@waqasdb.com) |
 
 *"I don't just optimize queries; I engineer stability."*
