@@ -19,10 +19,12 @@ Recent Result:
 
 ### 🛠 Tech Stack
 
-*   **Database:** PostgreSQL 16, MongoDB, Redis, TimescaleDB
-*   **Backend:** NestJS, Node.js, TypeScript, TypeORM, Prisma
-*   **Cloud:** AWS (RDS, Aurora, S3, EC2), Docker, Linux
-*   **Tools:** pg_stat_statements, pgBackRest, k6 (Load Testing)
+| Layer | Technologies |
+|-------|-------------|
+| **Database** | PostgreSQL 14-17 · MongoDB · Redis · Aurora |
+| **Backend** | NestJS · Node.js · TypeScript · Express |
+| **DBA Tools** | pgBackRest · pg_stat_statements · EXPLAIN ANALYZE |
+| **Infra** | AWS (RDS, S3, EC2) · Docker · Linux |
 
 ### 📫 Connect With Me
 
