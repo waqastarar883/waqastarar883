@@ -26,6 +26,21 @@ Recent Result:
 | **DBA Tools** | pgBackRest · pg_stat_statements · EXPLAIN ANALYZE |
 | **Infra** | AWS (RDS, S3, EC2) · Docker · Linux |
 
+### 📊 What I Do
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  🔍 Find the slow query                        │
+│  📊 EXPLAIN ANALYZE it                         │
+│  🛠  Fix the index / rewrite the query          │
+│  📉 Measure: 2,152ms → 1.08ms                  │
+│  ✅ Document everything                         │
+│  🔄 Repeat for next bottleneck                  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
 ### 📫 Connect With Me
 
 *   🌐 **Portfolio:** [waqasdb.com](https://waqasdb.com)
