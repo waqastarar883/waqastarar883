@@ -3,11 +3,11 @@
 I'm a **PostgreSQL Performance Consultant** & **NestJS Backend Architect**.
 I specialize in stabilizing high-scale databases (18TB+) and preventing financial race conditions.
 
-Recent Result:
-→ Stabilized 18TB Fintech PostgreSQL cluster
-→ Reduced DB operations by 57% (1,760 → 760 per request)
-→ Achieved 5+ months of 100% uptime
-→ Compressed backups from 18TB → 7.5TB with pgBackRest
+Recent Result:  
+→ Stabilized 18TB Fintech PostgreSQL cluster  
+→ Reduced database operations by 57% (1,760 → 760 per request)  
+→ Achieved 5+ months of 100% uptime  
+→ Compressed backups from 18TB to 7.5TB using pgBackRest
 
 ### 🔬 Featured Labs & Case Studies
 
