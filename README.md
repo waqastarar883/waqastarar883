@@ -24,7 +24,7 @@ Recent Result:
 | **Database** | PostgreSQL 14-17 · MongoDB · Redis · Aurora |
 | **Backend** | NestJS · Node.js · TypeScript · Express |
 | **DBA Tools** | pgBackRest · pg_stat_statements · EXPLAIN ANALYZE |
-| **Infra** | AWS (RDS, S3, EC2) · Docker · Linux |
+| **Infra** | AWS (RDS, S3, EC2) · Linux |
 
 ### 📊 What I Do
 
