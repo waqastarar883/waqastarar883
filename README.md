@@ -15,7 +15,6 @@ Recent Result:
 | :--- | :--- | :--- |
 | [**bulletproof-fintech-ledger**](https://github.com/waqastarar883/bulletproof-fintech-ledger) | Prevents double-spending using Pessimistic Locking | NestJS, PostgreSQL, TypeORM |
 | [**postgresql-10m-performance-demo**](https://github.com/waqastarar883/postgresql-10m-performance-demo.git) | 2000x query speedup (2.1s → 1ms) using BRIN indexes | PostgreSQL 16, SQL Optimization |
-| **nestjs-idempotency-pattern** *(Coming Soon)* | Handling duplicate webhooks safely at scale | NestJS, Redis, Unique Constraints |
 
 ### 🛠 Tech Stack
 
