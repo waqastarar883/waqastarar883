@@ -51,7 +51,7 @@ I don’t just tune queries — I systematically identify bottlenecks, prove imp
 - **Website:** [waqasdb.com](https://waqasdb.com)
 - **Consulting Inquiries:** consulting@waqasdb.com
 - **Upwork Profile:** [Available on Upwork](https://www.upwork.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/waqas-ahmad-2110aa15b/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/waqasdb/)
 
 Interested in reducing your PostgreSQL cloud spend or improving performance?  
 Feel free to open an issue on any repository or send me an email.
